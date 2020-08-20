@@ -10,5 +10,6 @@ Loaded File is the project that involves loading saved projects
 # BEFORE RUNNING THE PROJECT
 # 1) Extract the train.rar
 # 2) Extract the knn.rar
-# 3) Place it in the same folder as the ipython Notebook
+# 3) Extract the rfc.rar
+# 4) Place it in the same folder as the ipython Notebook
 ## THE ARCHIVED FILES ARE DONE SO TO REDUCE THE SIZE OF BIG FILES AS GITHUB DOESNT ALLOW FILES WITH SIZE MORE THAN 100 MB.
